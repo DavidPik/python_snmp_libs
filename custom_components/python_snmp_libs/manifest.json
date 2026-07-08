@@ -1,0 +1,10 @@
+{
+  "domain": "python_snmp_libs",
+  "name": "Python Library Injector",
+  "version": "1.0.0",
+  "documentation": "https://github.com/davidpik/python_snmp_libs",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@david"],
+  "iot_class": "local_polling"
+}
