@@ -1,7 +1,6 @@
 {
-  "name": "Python Library Injector",
+  "name": "Python SNMP Library Injector",
   "content_in_root": false,
-  "domains": ["python_snmp_libs"],
   "country": "CZ",
   "homeassistant": "2024.0.0"
 }
