@@ -1,7 +1,7 @@
 {
   "domain": "python_snmp_libs",
   "name": "Python Library Injector",
-  "issue_tracker": "https://github.com/davidpik/python_snmp_libs/issues"
+  "issue_tracker": "https://github.com/davidpik/python_snmp_libs/issues",
   "version": "1.0.0",
   "documentation": "https://github.com/davidpik/python_snmp_libs",
   "requirements": [],
