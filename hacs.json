@@ -1,0 +1,7 @@
+{
+  "name": "Python Library Injector",
+  "content_in_root": false,
+  "domains": ["python_libs"],
+  "country": "CZ",
+  "homeassistant": "2024.0.0"
+}
